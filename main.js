@@ -24,3 +24,4 @@ const addEmployee = async () => {
     console.log("Employee added successfully!");
 };
 addEmployee();
+console.log(employees);

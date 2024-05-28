@@ -32,3 +32,4 @@
   };
   addEmployee();
 
+console.log(employees);
